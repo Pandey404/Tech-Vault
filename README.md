@@ -1,2 +1,3 @@
-# Tech-Vault-
-This is my first Git repository
+# Tech-Vault
+This is my first Git repository.
+Programmer-: Pandey
